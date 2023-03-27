@@ -5,7 +5,7 @@ This repository was created to hold data for educational purposes.
 
 | Autor         | Projekt     | URL  |
 | ------------- |-------------| -----|
-| Macura      | Ukázka | [projekt-JS1](https://macura-spsstav.github.io/projekt-JS1/) |
+| Ženíšek      | Fahrenheit na stupně | [projekt-JS](https://github.com/gambler123/PROJEKT-JS/commit/30dcc18dd32593aa7a6db1ccd84915292473efd8) |
 | ... | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
